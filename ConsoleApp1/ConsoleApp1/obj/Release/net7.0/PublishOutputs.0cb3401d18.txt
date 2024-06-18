@@ -1,0 +1,5 @@
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ConsoleApp1\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.exe
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ConsoleApp1\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.dll
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ConsoleApp1\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.deps.json
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ConsoleApp1\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ConsoleApp1\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.pdb

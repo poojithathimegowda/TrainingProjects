@@ -78,23 +78,5 @@ class Program
 
         //Console.WriteLine(vehicle.Fuel);
 
-        //Lizard lizard  = new Lizard();
-        //lizard.AnimalsSound();
-
-        //Dogs dog1 = new Dogs { Name = "Buddy", Age = 3 };
-        //Dogs dog2 = new Dogs { Name = "Max", Age = 5 };
-        //Cats cat1 = new Cats { Name = "Whiskers", Age = 2 };
-        //Cats cat2 = new Cats { Name = "Whiskers", Age = 2 };
-        //Dogs dog3 = new Dogs { Name = "Shiro", Age = 3 };
-        //Dogs dog4 = new Dogs { Name = "Rio", Age = 5 };
-        //Animal animal = new Animal();
-        //animal.AddAnimal(dog1);
-        //animal.AddAnimal(dog2);
-        //animal.AddAnimal(dog3);
-        //animal.AddAnimal(dog4);
-        //animal.AddAnimal(cat1);
-        //animal.AddAnimal(cat2);
-
-        //animal.ToPrintAllTheAnimals();
     }
 }

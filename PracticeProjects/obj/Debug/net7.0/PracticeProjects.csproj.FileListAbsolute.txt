@@ -1,0 +1,15 @@
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\bin\Debug\net7.0\PracticeProjects.exe
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\bin\Debug\net7.0\PracticeProjects.deps.json
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\bin\Debug\net7.0\PracticeProjects.runtimeconfig.json
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\bin\Debug\net7.0\PracticeProjects.dll
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\bin\Debug\net7.0\PracticeProjects.pdb
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.csproj.AssemblyReference.cache
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.AssemblyInfoInputs.cache
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.AssemblyInfo.cs
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.csproj.CoreCompileInputs.cache
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.dll
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\refint\PracticeProjects.dll
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.pdb
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\PracticeProjects.genruntimeconfig.cache
+C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\PracticeProjects\obj\Debug\net7.0\ref\PracticeProjects.dll
