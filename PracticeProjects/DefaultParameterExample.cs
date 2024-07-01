@@ -8,7 +8,7 @@
         static void DefaultParameterExampleMain()
         {
             Console.WriteLine();
-            DefaultParameterExample.PrintMessage(message: "Murthy", secondMessage: "ranjith");
+            DefaultParameterExample.PrintMessage(message: "Hello", secondMessage: "World");
         }
     }
    
