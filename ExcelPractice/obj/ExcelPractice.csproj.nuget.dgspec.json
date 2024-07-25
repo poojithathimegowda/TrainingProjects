@@ -46,9 +46,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "DocumentFormat.OpenXml": {
+            "EPPlus": {
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[7.2.2, )"
             }
           },
           "imports": [
