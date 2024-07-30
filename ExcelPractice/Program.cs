@@ -12,7 +12,7 @@ namespace ExcelPractice
             // Specify the file path to save the Excel file
             string filePath = @"C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\ExcelFile.xlsx";
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-            // Create a new Excel package
+            // Create a new Excel package repeat the same for other sheets
             using (ExcelPackage excelPackage = new ExcelPackage())
             {
                 // Add a new worksheet
