@@ -22,5 +22,3 @@ C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\WpfExample2.pdb
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\WpfExample2.genruntimeconfig.cache
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\ref\WpfExample2.dll
-C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\View\UserControl\PoojithaControl.baml
-C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\View\UserControl\PoojithaControl.g.cs

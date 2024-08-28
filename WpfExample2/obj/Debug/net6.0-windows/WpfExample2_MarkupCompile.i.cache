@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\App.xaml
-2-904738027
+3-232418066
 
-6108624157
+71528234050
 194-1976662911
-MainWindow.xaml;View\UserControl\MyCustomControl.xaml;
+MainWindow.xaml;View\UserControl\ClearableTextBoxControl.xaml;View\UserControl\MyCustomControl.xaml;
 
 True
 

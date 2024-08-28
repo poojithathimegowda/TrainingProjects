@@ -1,20 +1,20 @@
-﻿WpfExample2
-
+﻿WpfCustomControlDemo
+1.0.0.0
 
 winexe
 C#
 .cs
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\obj\Debug\net6.0-windows\
-WpfExample2
+WpfCustomControlDemo
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ranji\source\repos\poojithathimegowda\TrainingProjects\WpfExample2\App.xaml
 2-904738027
 
-42127994821
+6-219001277
 194-1976662911
 MainWindow.xaml;View\UserControl\MyCustomControl.xaml;
 
-False
+True
 
